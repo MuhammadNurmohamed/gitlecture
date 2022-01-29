@@ -5,5 +5,9 @@ Loaded your dataset
 data cleaning
 ##
 
+<<<<<<< HEAD
 master branch is the main branch of the project we
 are working on
+=======
+run some crazy machine learning code
+>>>>>>> crazy-branch
