@@ -4,3 +4,6 @@ Hello World
 Loaded your dataset 
 data cleaning
 ##
+
+master branch is the main branch of the project we
+are working on
